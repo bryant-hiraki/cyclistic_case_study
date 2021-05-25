@@ -5,6 +5,7 @@
 1. [Summary](README.md#summary)
 2. [Links](README.md#links)
 3. [Data](README.md#data)
+4. [Analysis](README.md#analysis)
 
 ## Summary
 ### Introduction
@@ -28,3 +29,16 @@ This project was developed to satisfy the Case Study 1 scenario outlined in the 
 - __Source Files:__ 12 files logging trip data per month
 - __Processed:__ 1.3 GB of data via Google BigQuery
 - __Analyzed:__ 3,804,245 rows via RStudio
+
+## Analysis
+### Pie Chart
+![piechart](https://github.com/bryant-hiraki/cyclistic_case_study/blob/main/images/2021-05-17-pie_chart-ver01.png "Pie Chart")  
+Pie chart summarizing the distribution of rides from April 2020 to April 2021 between subscription types
+
+### Bar Graph
+![bargraph](https://github.com/bryant-hiraki/cyclistic_case_study/blob/main/images/2021-05-17-bar_graph_count-ver01.png "Bar Graph")  
+Bar Graph showing the number of rides between subscription type for each day of the week
+
+### Line Graph
+![linegraph](https://github.com/bryant-hiraki/cyclistic_case_study/blob/main/images/2021-05-17-line_graph_len_ver01.png "Line Graph")  
+Line Graph tracking the average ride length in minutes across each day of the week
